@@ -1,0 +1,40 @@
+
+body {
+    
+    padding-top:10px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     
+  }
+  .img{
+      margin-left: 10%;
+      background-size: cover;
+      width:80%;
+      height:60%;
+      
+  }
+  .nav{
+      background-color:rgb(245, 244, 182); 
+      font-weight: bold;
+
+    
+  }
+  .con{
+      position: absolute;
+      align-content: center;
+      margin-top: 15%;
+      margin-left: 20%;
+     
+  }
+  .frm{
+      padding: 10px;
+      border: 5px solid red;
+      background-color: aqua;
+  }
+  .ch{
+      border: 1px solid black;
+  }
+  #btn{
+      margin-left: 72%;
+  }
